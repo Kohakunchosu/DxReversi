@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.19045.4651]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Kazuma>cd C:\Users\Kazuma\Documents\Git\Repos\C++\OthelloGame
+
+C:\Users\Kazuma\Documents\Git\Repos\C++\OthelloGame>git push github main
+Enumerating objects: 652, done.
+Counting objects: 100% (652/652), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (651/651), done.
+error: RPC failed; HTTP 502 curl 22 The requested URL returned error: 502
+send-pack: unexpected disconnect while reading sideband packet
+Writing objects: 100% (652/652), 147.58 MiB | 1.56 MiB/s, done.
+Total 652 (delta 97), reused 0 (delta 0), pack-reused 0 (from 0)
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+C:\Users\Kazuma\Documents\Git\Repos\C++\OthelloGame>
